@@ -172,8 +172,9 @@ co.ao
 pb.ao
 it.ao
 
-// JCH : add app TLD
+// JCH : add app, company TLDs
 app
+company
 
 // aq : http://en.wikipedia.org/wiki/.aq
 aq
